@@ -1,0 +1,16 @@
+{
+  "name": "highground",
+  "version": "1.1.0",
+  "private": true,
+  "description": "An original first-person strategy game about height, sight and energy.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "three": "0.160.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
+}
